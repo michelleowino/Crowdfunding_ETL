@@ -6,6 +6,8 @@ For the ETL mini project, we worked together to practice building an ETL pipelin
 
 Finally, we uploaded the CSV file data into a Postgres database and run the script to create tables. 
 
+Below are the tables created. We also created corresponding DataFrames in Jupyter Notebook. 
+
 ## Contacts 
 <img width="906" alt="contacts" src="https://user-images.githubusercontent.com/119654958/225806729-fdb14ce3-a037-4ce3-bdfe-07aa639080a9.png">
 
