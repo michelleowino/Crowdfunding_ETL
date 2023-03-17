@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/119654958/224897694-e7a8d000-77dd-4b68-98bf-d8e31c1f6348.png)
 
-For the ETL mini project, we worked together to practice building an ETL pipeline using Python, Pandas, Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. 
+For the ETL mini project, we worked together to practice building an ETL pipeline using Python, Pandas and Python dictionary methods to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. 
 
 Finally, we uploaded the CSV file data into a Postgres database and run the script to create tables. 
 
